@@ -2,11 +2,6 @@ Hi there, I'm Akash Lawande 👋
 
 Full-Stack Software Engineer | Java & Spring Boot Backend Specialist | React.js & AI Integrations
 
-LinkedIn
-LeetCode
-
-GitHub
-
 👨‍💻 About Me
 
 🚀 Software Engineer with production experience building scalable backend services and responsive full-stack web applications using Java, Spring Boot, React.js, and Laravel.
