@@ -1,56 +1,72 @@
 <div align="center">
 
-  <!-- Dynamic Header Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0284c7&height=200&section=header&text=Akash%20Lawande&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React.js%20%7C%20Applied%20AI&descAlignY=58&descSize=17" width="100%" alt="Akash Lawande Banner" />
+# ⚡ Akash Lawande
+### **Backend-Focused Software Engineer — Java • Spring Boot • Microservices • Applied AI**
 
-  <!-- Animated Typing Subtitle -->
-  <a href="https://github.com/akaza8">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Full-Stack+Software+Engineer+(Java+%7C+Spring+Boot+%7C+React.js);Building+Scalable+REST+APIs%2C+Microservices+%26+AI%2FRAG+Workflows;200%2B+DSA+Problems+Solved+on+LeetCode+%7C+Immediate+Joiner" alt="Typing SVG" />
+📍 **Maharashtra, India** &nbsp;|&nbsp; 🟢 **Immediate Joiner (Office / Remote / Hybrid)** &nbsp;|&nbsp; 🎓 **B.E. Computer Engineering (8.55 CGPA)**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akash-lawande0852/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-akash--lawande0852-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <br/>
-
-  <!-- Social & Contact Badges -->
-  <p>
-    <a href="https://www.linkedin.com/in/akash-lawande0852/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Akash_Lawande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/akashlawande" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="mailto:akashlawande852@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-akashlawande852%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Status-Open_to_Work_(Immediate_Joiner)-10B981?style=for-the-badge" alt="Status" />
-  </p>
+  <a href="https://leetcode.com/u/akashlawande" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-200%2B_DSA_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:akashlawande852@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akashlawande852%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/akaza8" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-akaza8-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me & Production Impact
+## 🧠 Backend Engineering Profile & Production Impact
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 Engineering Snapshot</h3>
-      <ul>
-        <li><b>Full-Stack Software Engineer</b> with production experience delivering high-availability backend microservices and modern web applications using <b>Java, Spring Boot, React.js, and Laravel</b>.</li>
-        <li><b>Applied AI Builder:</b> Designing LLM-powered procurement &amp; automation workflows using <b>Spring AI, Vector Embeddings, RAG, Semantic Chunking, and Perplexity AI</b>.</li>
-        <li><b>Problem Solver:</b> Solved <b>200+ Data Structures &amp; Algorithms problems</b> on <a href="https://leetcode.com/u/akashlawande">LeetCode</a> with strong foundations in OOP, DBMS, and system design.</li>
-        <li>📍 <b>Location &amp; Preference:</b> Maharashtra, India (Open to Office, Remote &amp; Hybrid roles — <b>Immediate Joiner</b>).</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <h3>⚡ Verified Impact at Netwin</h3>
+    <td width="58%" valign="top">
+
+```yaml
+engineer:
+  name: "Akash Lawande"
+  role: "Software Engineer (Backend & Full-Stack)"
+  experience: "8 Months Production @ Netwin Infosolutions"
+  core_focus:
+    - "High-Throughput RESTful APIs & Spring Boot Microservices"
+    - "Database Schema Design & Query Optimization (PostgreSQL / MySQL)"
+    - "Applied AI, RAG Pipelines, Vector Embeddings & Spring AI"
+    - "Legacy Modernization (Angular -> React.js + Spring Boot)"
+  problem_solving: "200+ DSA Problems Solved on LeetCode (Java)"
+  status: "Immediate Joiner | Open to Backend & Full-Stack Roles"
+```
+
+</td>
+    <td width="42%" valign="top">
+      <h4>⚡ Production Benchmarks (Netwin Infosolutions)</h4>
       <table>
         <tr>
-          <td align="center"><b>-40%</b><br/><sub>Response Time via ServiceNow Chatbot</sub></td>
-          <td align="center"><b>-30%</b><br/><sub>Page Load Time (Angular → React)</sub></td>
+          <td align="center" width="50%">
+            <h3><b>-40%</b></h3>
+            <sub><b>Response Latency</b><br/>ServiceNow Chatbot Automation</sub>
+          </td>
+          <td align="center" width="50%">
+            <h3><b>-30%</b></h3>
+            <sub><b>Page Load Time</b><br/>Angular to React + Spring Boot</sub>
+          </td>
         </tr>
         <tr>
-          <td align="center"><b>+25%</b><br/><sub>API Scalability (Spring Boot DIP)</sub></td>
-          <td align="center"><b>200+</b><br/><sub>LeetCode DSA Problems Solved</sub></td>
+          <td align="center" width="50%">
+            <h3><b>+25%</b></h3>
+            <sub><b>System Scalability</b><br/>Spring Boot DIP &amp; SQL Tuning</sub>
+          </td>
+          <td align="center" width="50%">
+            <h3><b>200+</b></h3>
+            <sub><b>DSA Problems</b><br/>Solved on LeetCode</sub>
+          </td>
         </tr>
       </table>
     </td>
@@ -59,10 +75,25 @@
 
 ---
 
-## 🛠️ Tech Stack & Engineering Arsenal
+## 🏗️ How I Architect Backend & AI Systems
+
+```mermaid
+graph LR
+    Client[React.js / TypeScript Client] -->|HTTPS / REST JSON| Auth[JWT Security Filter]
+    Auth --> API[Spring Boot API Layer]
+    API --> Service[Business Logic & MVC Services]
+    Service -->|Spring Data JPA / Hibernate| DB[(PostgreSQL / MySQL)]
+    Service -->|Event Streaming| Kafka[[Apache Kafka]]
+    Service -->|Spring AI / RAG / Chunking| AI[LLM & Perplexity AI Engine]
+    AI -->|Vector Embeddings| DB
+```
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,laravel,php,postgres,mysql,hibernate,docker,kafka,aws,maven,git,postman&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,hibernate,kafka,docker,aws,react,ts,js,laravel,maven,git,postman&perline=15" alt="Tech Icons" />
 </div>
 
 <br/>
@@ -70,139 +101,116 @@
 <table width="100%">
   <tr>
     <td width="25%" valign="top">
-      <b>☕ Languages &amp; Core</b><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <h4>⚙️ Backend &amp; APIs</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring MVC" />
+        <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
+        <img src="https://img.shields.io/badge/Microservices-0284C7?style=flat-square" alt="Microservices" />
+        <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square" alt="REST API" />
+        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      </p>
     </td>
     <td width="25%" valign="top">
-      <b>🍃 Backend &amp; Frontend</b><br/><br/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
-      <img src="https://img.shields.io/badge/Microservices-0284C7?style=flat-square" alt="Microservices" />
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/JWT_Security-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-      <img src="https://img.shields.io/badge/JUnit5_%26_Mockito-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit5" />
+      <h4>🗄️ Databases &amp; Messaging</h4>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Hibernate_ORM-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+        <img src="https://img.shields.io/badge/H2_Database-003545?style=flat-square" alt="H2" />
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+        <img src="https://img.shields.io/badge/Vector_DB_%2F_Embeddings-6366F1?style=flat-square" alt="Vectors" />
+      </p>
     </td>
     <td width="25%" valign="top">
-      <b>🗄️ Data, Cloud &amp; DevOps</b><br/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-      <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+      <h4>🤖 Applied AI &amp; LLM Stack</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
+        <img src="https://img.shields.io/badge/RAG_Architecture-7C3AED?style=flat-square" alt="RAG" />
+        <img src="https://img.shields.io/badge/Perplexity_AI-1FB8CD?style=flat-square" alt="Perplexity AI" />
+        <img src="https://img.shields.io/badge/Semantic_Chunking-0EA5E9?style=flat-square" alt="Chunking" />
+        <img src="https://img.shields.io/badge/Context_Window_Mgmt-3B82F6?style=flat-square" alt="Context Window" />
+      </p>
     </td>
     <td width="25%" valign="top">
-      <b>🤖 Applied AI &amp; Tools</b><br/><br/>
-      <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
-      <img src="https://img.shields.io/badge/RAG_Pipelines-6366F1?style=flat-square" alt="RAG" />
-      <img src="https://img.shields.io/badge/Vector_Embeddings-8B5CF6?style=flat-square" alt="Vectors" />
-      <img src="https://img.shields.io/badge/Perplexity_AI-1FB8CD?style=flat-square" alt="Perplexity" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <h4>🐳 DevOps, Testing &amp; Web</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/JUnit_5_%26_Mockito-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏆 Featured Flagship Projects
+## 🚀 Featured Engineering Systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 <a href="https://github.com/akaza8/ai-rfp-system">AI-Powered RFP Management System</a></h3>
+      <h3>1. <a href="https://github.com/akaza8/ai-rfp-system">AI-Powered RFP &amp; Procurement Engine</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/React_%2B_TS-3178C6?style=flat-square&logo=react&logoColor=white" alt="React TS" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Perplexity_AI-1FB8CD?style=flat-square" alt="Perplexity AI" />
+        <code>Spring Boot</code> • <code>PostgreSQL</code> • <code>Docker</code> • <code>Perplexity AI</code> • <code>React + TypeScript</code>
       </p>
       <ul>
-        <li>Built an end-to-end <b>procurement automation platform</b> enabling AI-driven Request for Proposal (RFP) creation from natural language prompts, vendor management, and proposal lifecycle tracking.</li>
-        <li>Integrated <b>Perplexity AI</b> to parse unstructured vendor email responses into structured, comparable proposals backed by a Dockerized PostgreSQL and RESTful Spring Boot architecture.</li>
+        <li><b>Backend Architecture:</b> Engineered a RESTful Spring Boot backend with containerized PostgreSQL persistence to automate enterprise Request for Proposal (RFP) creation and vendor lifecycle tracking.</li>
+        <li><b>AI Email &amp; Document Parser:</b> Integrated <b>Perplexity AI</b> pipelines to ingest unstructured vendor email responses and transform them into structured, queryable proposal schemas.</li>
       </ul>
-      <p><a href="https://github.com/akaza8/ai-rfp-system"><b>🔗 Explore Repository →</b></a></p>
+      <p><a href="https://github.com/akaza8/ai-rfp-system"><b>→ View Source &amp; Architecture on GitHub</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/akaza8/quiz-app">Quiz Management System REST API</a></h3>
+      <h3>2. <a href="https://github.com/akaza8/quiz-app">Quiz Management System — REST API</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/REST_API-0284C7?style=flat-square" alt="REST API" />
+        <code>Java</code> • <code>Spring Boot</code> • <code>Spring Data JPA</code> • <code>MySQL</code> • <code>MVC Architecture</code>
       </p>
       <ul>
-        <li>Architected a clean <b>Spring Boot RESTful backend service</b> supporting dynamic quiz creation, category filtering, evaluation workflows, and persistent result management.</li>
-        <li>Implemented layered <b>MVC architecture</b> with Spring Data JPA repositories, custom query methods, and automated scoring logic backed by MySQL.</li>
+        <li><b>Layered Backend Service:</b> Designed a modular REST API separating <code>Controller</code>, <code>Service</code>, and <code>DAO/Repository</code> layers for question bank management and dynamic quiz assembly.</li>
+        <li><b>Automated Evaluation Engine:</b> Built server-side scoring logic and custom JPA native queries to generate randomized category quizzes and evaluate submissions securely.</li>
       </ul>
-      <p><a href="https://github.com/akaza8/quiz-app"><b>🔗 Explore Repository →</b></a></p>
+      <p><a href="https://github.com/akaza8/quiz-app"><b>→ View Source &amp; API Spec on GitHub</b></a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Production Engineering Experience
 
-### **Junior Software Engineer** @ Netwin Infosolutions
-<kbd>August 2024 – March 2025</kbd> • 📍 *Nashik, Maharashtra, India*
+### **Junior Software Engineer** — Netwin Infosolutions
+<kbd>Aug 2024 – Mar 2025</kbd> &nbsp;•&nbsp; 📍 *Nashik, India*
 
-- **Data Integration Platform (DIP) APIs:** Designed, developed, and deployed secure RESTful APIs using **Spring Boot, Spring MVC, and JWT authentication** with database optimization techniques, improving platform scalability by **25%**.
-- **Legacy Angular → React.js Modernization:** Led the end-to-end migration of a legacy Angular application to a modern **React.js + Spring Boot** stack, reducing page load times by **30%**.
-- **ServiceNow Chatbot Integration:** Built and integrated a ServiceNow chatbot platform across multiple client websites, automating routine customer inquiries and reducing average response times by **40%**.
-- **Multilingual CMS & Real-Time E-Commerce Customizer:** Engineered multilingual capabilities across **5+ languages** for the **Chiesi BE CMS** (`Laravel PHP`, `jQuery`) and architected a real-time interactive product **Logo Placement module** (`JavaScript`) for the **Fireman-Locker** e-commerce platform.
+- **Data Integration Platform (DIP) Backend:** Architected, developed, and deployed RESTful APIs using **Spring Boot, Spring MVC, and stateless JWT authentication**, applying SQL indexing and query optimization to improve platform scalability by **25%**.
+- **Legacy Angular → React.js + Spring Boot Migration:** Led the end-to-end modernization of a legacy Angular application to a decoupled **React.js frontend and Spring Boot REST backend**, reducing page load times by **30%**.
+- **ServiceNow Chatbot Platform Integration:** Engineered and integrated automated ServiceNow conversational workflows across multiple client web portals, cutting average customer inquiry response time by **40%**.
+- **Multilingual CMS & E-Commerce Modules:** Delivered multilingual content management features across **5+ languages** for the **Chiesi BE CMS** (`Laravel PHP`, `jQuery`) and built a real-time interactive product **Logo Placement engine** (`JavaScript`) for **Fireman-Locker**.
 
 ---
 
-## 📊 GitHub & Coding Analytics
+## 📈 Problem Solving & Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akaza8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaza8&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <br/>
   <a href="https://leetcode.com/u/akashlawande">
-    <img src="https://leetcard.jacoblin.cool/akashlawande?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats for akashlawande" />
+    <img src="https://leetcard.jacoblin.cool/akashlawande?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats for akashlawande" />
   </a>
 </div>
 
 ---
 
-## 🎓 Education & Verified Certifications
+## 🎓 Education & Verified Credentials
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Education</h3>
-      <p>
-        <b>Bachelor of Engineering (B.E.) in Computer Engineering</b><br/>
-        Amrutvahini College of Engineering, Sangamner<br/>
-        <i>Savitribai Phule Pune University (2020 – 2024)</i><br/>
-        ⭐ <b>CGPA: 8.55 / 10.0</b>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏅 Certifications &amp; Achievements</h3>
-      <ul>
-        <li>☁️ <a href="https://www.coursera.org/account/accomplishments/records/GYG27W3P12WD"><b>AWS Cloud Technical Essentials</b></a> — Coursera</li>
-        <li>☁️ <a href="https://drive.google.com/file/d/17eZcAIyzMpRxetSyISmg8YiZCXMYbREj/view"><b>AWS Cloud Computing Virtual Internship</b></a> — Eduskill Foundation</li>
-        <li>🐍 <a href="https://drive.google.com/file/d/1txoINe-Poe7E-gtqu46Nwt-MtVi4HI1e/view"><b>Python for Data Science Certification</b></a> — NPTEL</li>
-        <li>🏆 <a href="https://leetcode.com/u/akashlawande"><b>LeetCode Problem Solving Badge</b></a> — 200+ DSA Problems Solved</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0284c7&height=100&section=footer" width="100%" alt="Footer Wave" />
-</div>
+| Credential / Degree | Institution / Issuer | Highlights / Verification |
+| :--- | :--- | :--- |
+| **B.E. in Computer Engineering** | Amrutvahini College of Engineering (SPPU) | **CGPA: 8.55 / 10.0** *(2020 – 2024)* |
+| **AWS Cloud Technical Essentials** | Coursera / AWS | [Verify Certificate ↗](https://www.coursera.org/account/accomplishments/records/GYG27W3P12WD) |
+| **AWS Cloud Computing Virtual Internship** | Eduskill Foundation | [Verify Certificate ↗](https://drive.google.com/file/d/17eZcAIyzMpRxetSyISmg8YiZCXMYbREj/view) |
+| **Python for Data Science** | NPTEL | [Verify Certificate ↗](https://drive.google.com/file/d/1txoINe-Poe7E-gtqu46Nwt-MtVi4HI1e/view) |
+| **LeetCode Problem Solving Badge** | LeetCode | [200+ DSA Problems Solved ↗](https://leetcode.com/u/akashlawande) |
